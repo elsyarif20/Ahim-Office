@@ -1,0 +1,5 @@
+{
+  "name": "AHIM Office Suite AI",
+  "description": "AI-powered office suite for generating Word, PPT, Excel, and editing PDFs in multiple languages.",
+  "requestFramePermissions": []
+}
